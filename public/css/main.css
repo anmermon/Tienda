@@ -1,0 +1,104 @@
+body{
+	background: #f4f5f7;
+}
+/*------nav--------*/
+
+.logo-nav{
+	width: 60px;
+}
+
+.formularioRegistro{
+	background: #fff;
+	margin-top: 1em;
+}
+input{
+	text-align: center;
+}
+
+
+/*-----------footer-----------*/
+footer{
+	background: #FFF37D;
+	text-align: center;
+}
+footer p{
+	text-align: justify;
+}
+footer h3{
+	margin-top: 20px;
+}
+.logo-footer{
+	width: 200px;
+}
+
+ul.redes li{
+	display: inline-block;
+	margin-right: 30px;
+}
+ul.redes li a{
+	color: #238BCC;
+	margin-right: 30px;
+}
+footer img{
+	margin-top: 60px;
+}
+/*-----------grid----------------*/
+
+#productos {
+position: relative;
+max-width: 100%;
+width: 100%;
+}
+img {
+width: 100%;
+max-width: 100%;
+height: auto;
+}
+.white-panel {
+position: absolute;
+background: white;
+box-shadow: 0px 1px 2px rgba(0,0,0,0.3);
+padding: 10px;
+}
+.white-panel h1 {
+font-size: 1em;
+}
+.white-panel h1 a {
+color: #A92733;
+}
+.white-panel:hover {
+box-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+margin-top: -5px;
+-webkit-transition: all 0.3s ease-in-out;
+-moz-transition: all 0.3s ease-in-out;
+-o-transition: all 0.3s ease-in-out;
+transition: all 0.3s ease-in-out;
+}
+
+/*-------detalle de producto--------*/
+.product-block{
+	background: white;
+	border-radius: 1em;
+	padding: 1em;
+}
+
+/*------CARRITO------*/
+.table-cart{
+	background: #fff;
+	border-radius: 1em;
+	margin-bottom: 30px;
+	padding: 1em;
+}
+.table-cart img{
+	width: 50px;
+}
+.img-order-detail{
+	width: 50px;
+}
+/*------FORMULARIO REGISTRO--------*/
+.page{
+	background: #fff;
+	border-radius: 1em;
+	margin-bottom: 30px;
+	padding: 1em;
+}

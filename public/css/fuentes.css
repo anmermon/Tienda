@@ -1,0 +1,8 @@
+@font-face{
+	font-family: ARCENA;
+	src:url(fonts/ARCENA.ttf);
+}
+h1{
+	font-family: ARCENA;
+	font-size: 35px;
+}

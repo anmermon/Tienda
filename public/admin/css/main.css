@@ -1,0 +1,25 @@
+body{
+	background: #E0E0E0;
+}
+
+footer{
+
+	background: #B24A4A;
+	margin-top: 95px;
+	padding: 20px;
+}
+.page{
+	background: #fff;
+	border-radius: 1em;
+	margin:1em;
+	min-height: 500px;
+	padding: 1em;
+}
+.icon-home{
+	color:#666;
+	font-size: 60px;
+	margin: 20px;
+}
+.btn-home-admin{
+	font-size: 25px;
+}
